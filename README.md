@@ -8,5 +8,5 @@ Program akan meminta pengguna untuk memasukkan jumlah siswa melalui nextInt().
 Pengulangan for digunakan untuk mengulang proses input dan penjumlahan nilai berdasarkan jumlah siswa yang dimasukkan pengguna.
 Semua nilai dijumlahkan ke dalam variabel totalNilai.
 Rata Rata nilai dihitung dengan rumus totalNilai dibagi jumlahSiswa.
-<img src=< img width="1361" height="382" alt="Screenshot 2025-11-04 135914" src="https://github.com/user-attachments/assets/62cd14c8-6b3a-410e-b3ab-814a7ca40dd4" />
+<img src=<img width="1468" height="965" alt="image" src="https://github.com/user-attachments/assets/8ec1fd7a-490e-42a1-823b-0bf7aa7d8dc6" />
 >
